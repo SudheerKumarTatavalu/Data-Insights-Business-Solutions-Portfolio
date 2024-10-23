@@ -27,3 +27,8 @@ This portfolio showcases a collection of my data analysis projects, which I comp
 
 - **[IPL Performance Dashboard](https://github.com/SudheerKumarTatavalu/Data-analysis-projects/tree/2780d8d7676394d7a06c2e2de7e32e965d88f546/IPL%20Performance%20Dashboard)**  
   This project focuses on building a dashboard to analyze season-wise statistics of the Indian Premier League (IPL) from 2008 to 2018. It aims to provide insights into team performance and player statistics, enhancing the understanding of trends in IPL history.
+
+## SQL
+
+- **[Analysis of COVID-19 Data Using SQL](https://github.com/SudheerKumarTatavalu/Data-analysis-projects/tree/3c8ad10730f853db4aea3294ff5d86bee7586c72/COVID19_DATA_Analysis)**
+  The COVID-19 pandemic was a significant outbreak that resulted in loss of life and had a negative impact on the economy. In this micro project, I analyzed COVID-19 data using SQL. The dataset includes recorded cases from February 24, 2020, to April 30, 2021.
